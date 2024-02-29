@@ -1,0 +1,47 @@
+# COMPRARE QUALCOSA SU AMAZON
+
+- aprire amazon
+    - SE sei su desktop
+        - aprire browser
+        - andare su amazon.it 
+            - SE hai già un account
+                - accedi
+            - ALTRIMENTI
+                - creare profilo
+    - ALTRIMENTI 
+        - sbloccare il telefono
+            - SE hai già la app
+                - aprire app
+            - ALTRIMENTI
+                - scaricare app sul dispositivo
+                    - SE hai già un account
+                        - accedi
+                    - ALTRIMENTI
+                        - creare profilo
+- cercare da amazon
+    - creazione lista regali
+        - aggiungere lampada particolare
+        - aggiugere stilografica
+        - aggiugere libro
+    - cliccare sulla barra "cerca"
+    - FINO A CHE (Non ho già trovato un regalo per la mia amica) E (Ci sono ancora regali nella lista)
+        - Cerco il prossimo regalo nella barra della ricerca
+        - SE la ricerca ha risultato
+            - Controllo il risultato
+            - SE l'oggetto è Prime E il costo rientra nel budget
+                - Aggiungo il prodotto al carrello
+        - ALTRIMENTI
+            - Vado al prossimo regalo della lista
+    - SE Non ho trovato nessun regalo della lista
+        - Vado fuori a prendere dei cioccolatini (EXIT)
+- completare l'ordine
+    - SE dati già presenti
+        - confermare ordine
+    - ALTRIMENTI
+        - inserire dati utente
+    - inserire l'opzione "pacchetto regalo" 
+    - inserire eventuali buoni regalo
+    - cliccare su acquista
+    - aspetto il regalo
+        - SE non arriva in tempo
+            - Vado fuori a prendere dei cioccolatini (EXIT)
