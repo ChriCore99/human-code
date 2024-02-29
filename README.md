@@ -1,4 +1,4 @@
-# COMPRARE QUALCOSA SU AMANZON
+# COMPRARE QUALCOSA SU AMAZON
 
 - aprire amazon
     - SE sei su desktop
